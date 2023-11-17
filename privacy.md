@@ -34,4 +34,4 @@ Implementamos medidas técnicas e organizacionais para proteger suas informaçõ
 Reservamo-nos o direito de alterar esta política a qualquer momento. Quaisquer alterações serão comunicadas a você através do aplicativo ou por e-mail e entrarão em vigor imediatamente após a publicação da política revisada.
 
 ## Contato
-Se você tiver dúvidas ou preocupações sobre esta Política de Privacidade, por favor, entre em contato conosco através do contact@vipy.social.
+Se você tiver dúvidas ou preocupações sobre esta Política de Privacidade, por favor, entre em contato conosco através do vipyteam@gmail.com.
